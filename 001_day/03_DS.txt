@@ -1,0 +1,59 @@
+What are Data Structures?
+
+Data Structure is a storage that is used to store and organise data.
+It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
+Depending on the requirement and project, it is important to choose the right data structure for your project.
+
+Data Structure Types:
+1. Linear Data Structure: Array, Stack, Queue, Linked List.
+2. Non-Linear Data Structure: Graph, Tree.
+
+
+Linear Data Structure
+    Elements are arrange/stored in a sequential manner ie one after the other.
+    Since elements are arranged in particular order, they are easy to implement.
+
+    When complexity increases, these are might be not the best choice becoz of operational complexity
+
+
+1. Array Data Structure:
+    - elements in memory are arranged in a continuos memory.
+    - All the elements of the array are of the same type.
+    - type is determined by the programming language.
+
+2. Stack Data Structure:
+    - elements are stored in LIFO principle. Last element stored in a stack will be removed first.
+
+
+3. Queue Data Structure:
+    - elements are stored in FIFO principle. First element stored in a queue will be removed first.
+
+4. Linked List Data Structure:
+    - elements are connected through a series of nodes.
+    - each node contains the data items and address of the next node.
+
+
+
+Non-Linear Data Structure
+    Elements are arranged in a heirarchial manner, where one element is connected to on or more elements.
+
+
+1. Graph Data Structure:
+    - each node is called vertex, and each vertex is connected to other vertex through edges
+
+    Popular Graph Based Data Structures:
+        Spanning Tree and Minimum Spanning Tree
+        Strongly Connected Components
+        Adjacency Matrix
+        Adjacency List
+
+2. Tree Data Structure:
+    - a tree is also a collection of vertices and edges. But there can be only one edge between two vertices
+
+    Popular Tree based Data Structure
+        Binary Tree
+        Binary Search Tree
+        AVL Tree
+        B-Tree
+        B+ Tree
+        Red-Black Tree
